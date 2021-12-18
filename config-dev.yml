@@ -1,6 +1,7 @@
 skyblue:
   profile : skyblue dev profile
   comment : dev profile
+  comment3 : dev profile3
   test :
     - test1
     - test2
