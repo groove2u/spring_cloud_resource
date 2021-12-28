@@ -1,6 +1,5 @@
 skyblue:
-  profile : skyblue real profile
-  comment : real profile
-  test :
-    - test1
-    - test2
+  profile : skyblue dev profile
+  comment : dev profile
+  comment3 : dev profile3
+  list: huvit,huvit

@@ -1,9 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="665cb470-5a91-4a7b-ba17-336a718e4bdb" name="Default Changelist" comment="test111">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-real.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-real.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +77,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1639805531036</updated>
-      <workItem from="1639805533927" duration="3927000" />
+      <workItem from="1639805533927" duration="5666000" />
+      <workItem from="1639870848011" duration="595000" />
+      <workItem from="1639961579826" duration="595000" />
+      <workItem from="1639973145003" duration="595000" />
+      <workItem from="1639990247950" duration="1941000" />
+      <workItem from="1640654733602" duration="613000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1639806291234</created>
@@ -87,11 +112,58 @@
       <option name="project" value="LOCAL" />
       <updated>1639815401975</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="test111">
+      <created>1639815513374</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1639815513374</updated>
+    </task>
+    <task id="LOCAL-00006" summary="test111">
+      <created>1639816044672</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1639816044672</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test111">
+      <created>1639817512338</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1639817512338</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test111">
+      <created>1640479739792</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1640479739793</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test111">
+      <created>1640479872740</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1640479872740</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test" />
@@ -116,9 +188,9 @@
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
     <state x="370" y="346" key="SettingsEditor/0.0.3440.1400@0.0.3440.1400" timestamp="1639806023273" />
-    <state x="459" y="435" key="Vcs.Push.Dialog.v2" timestamp="1639815470500">
+    <state x="459" y="435" key="Vcs.Push.Dialog.v2" timestamp="1640479874258">
       <screen x="0" y="0" width="3440" height="1400" />
     </state>
-    <state x="459" y="435" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1639815470500" />
+    <state x="459" y="435" key="Vcs.Push.Dialog.v2/0.0.3440.1400@0.0.3440.1400" timestamp="1640479874258" />
   </component>
 </project>
